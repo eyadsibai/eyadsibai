@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hej, I'm Eyad 👋
 
 <!--
 **eyadsibai/eyadsibai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Currently working on ... at ..., 
+
+Interested in .... 
 -->
+
+
+[![stats](https://github-readme-stats.vercel.app/api?username=eyadsibai&count_private=true&show_icons=true&layout=compact&theme=dracula)](https://github.com/eyadsibai)
+
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyadsibai&exclude_repo=dotfiles&langs_count=8&layout=compact&theme=dracula)](https://github.com/eyadsibai?tab=repositories)
